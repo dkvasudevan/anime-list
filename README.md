@@ -5,8 +5,8 @@ The front-end was created with React and Vite and the backend uses express REST 
 Both the frontend and backend are dockerized and the application is built in the compose.yaml 
 
 ## Installation Prerequisites
-Install Node: https://nodejs.org/en/download/package-manager
-Install Docker:  https://docs.docker.com/engine/install/
+1. Install Node: https://nodejs.org/en/download/package-manager
+2. Install Docker:  https://docs.docker.com/engine/install/
 
 ## Installation Instructions
 1. Clone this repository
